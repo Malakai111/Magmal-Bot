@@ -12,7 +12,7 @@ Welcome to Magmal Nitro Type Bot! These terms of service ("Terms") outline the r
 
 6. **Privacy:** We do not collect any personal information relating your accounts such as passwords or any other Credentials. The data we collect includes user IDs, server IDs, channel IDs and Nitrotype account usernames. The bot never requests any personal data of the users and any act that breaks Discord's ToS is discouraged by us.
 
-7. **Termination:** We reserve the right to terminate access to Magmal at our discretion without prior notice if we determine that there has been a violation of these Terms or for any other reason(s).
+7. **Termination:** We reserve the right to terminate access to Magmal at our discretion without prior notice if we determine that there has been a violation of these Terms or for any other reason(s). 
 
 8. **Changes to Privacy Policy and ToS:** The development team of Magmal has all the rights to change the Privacy Policy and ToS at any time, without any prior notice to any server or user.
 
