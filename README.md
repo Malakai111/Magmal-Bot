@@ -1,6 +1,6 @@
 **Magmal Nitro Type Bot Terms of Service**
 
-> Welcome to Magmal Nitro Type Bot! These terms of service ("Terms") outline the rules and regulations for the use of our bot, Magmal. By using Magmal, you agree to abide by these Terms. Please read them carefully before using the bot.
+Welcome to Magmal Nitro Type Bot! These terms of service ("Terms") outline the rules and regulations for the use of our bot, Magmal. By using Magmal, you agree to abide by these Terms. Please read them carefully before using the bot.
 
 1. **Acceptance of Terms:** By using Magmal, you agree to these Terms. If you do not agree to abide by these Terms, please refrain from using the bot.
 
