@@ -7,7 +7,7 @@
 
 3. **How do we use this data?** The data is used to make it easier to find other user's Nitrotype accounts. Your Data is private and stored in a database inaccessible to the public.
 
-4. **How long do we store your data?** The data is stored for an infinite amount of time. However, this data package does not contain any sensitive information and you can delete your data at any time yourself by running commands through the bot.
+4. **How long do we store your data?** The data we collect from you is stored for 30 days. However, this data package does not contain any sensitive information and you can delete your data at any time yourself by running commands through the bot.
 
 5. **Who do we share the data with?** We never share your data with anyone else. Your data remains private and is not given away to any third parties.
 
