@@ -14,7 +14,7 @@ Welcome to Magmal Nitro Type Bot! These terms of service ("Terms") outline the r
 
 7. **Termination:** We reserve the right to terminate access to Magmal at our discretion without prior notice if we determine that there has been a violation of these Terms or for any other reason(s).
 
-8. **Changes to Privacy Policy and ToS:** The development team of Magmal has all the rights to change the Privacy Policy and ToS at any time, without any prior notice to any server or user. Individuals may request their data deletion in the [Official Support Server](https://discord.gg/u3dyNmCVfT).
+8. **Changes to Privacy Policy and ToS:** The development team of Magmal has all the rights to change the Privacy Policy and ToS at any time, without any prior notice to any server or user.
 
 9. **Contact Information:** For any inquiries or concerns regarding these Terms or Magmal, you can contact us by joining the [Official Support Server](https://discord.gg/u3dyNmCVfT) or sending a direct message to [malakaii11](https://discord.com/users/724772394748870718) on discord. 
 
