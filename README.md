@@ -8,7 +8,7 @@ Welcome to Magmal Nitro Type Bot! These terms of service ("Terms") outline the r
 
 3. **Proper Usage:** "Usage of the bot's services should not involve abuse. 'Abuse' includes actions such as spamming errors, attempting to disrupt the bot through the repeated use of potentially flawed commands, or exploiting its functions in any manner. Magmal and its services are intended for responsible use only. Any detected attempts of misuse will result in a permanent ban from accessing any bot commands."
 
-4. **Legal Age:** You may not use Magmal or any of Magmal's services if you're under the legal age (13 Years) to use Discord. This specific age only applies to the United States. Discord features a full list of countries where you have to be older in order to use Discord. If you are caught being underaged, we have full rights to ban you from our bot and services and your account will be reported to Discord's Safety Team.
+4. **Legal Age:** You may not use Magmal or any of Magmal's services if you're under the legal age (13 Years) to use Discord. This specific age only applies to the United States. Discord features a full list of countries where you have to be older in order to use Discord. If you are caught being underaged, we have full rights to ban you from our bot and services and your account may be reported to Discord's Safety Team.
 
 6. **Privacy:** We do not collect any personal information relating your accounts such as passwords or any other Credentials. The data we collect includes user IDs, server IDs, channel IDs and Nitrotype account usernames. The bot never requests any personal data of the users and any act that breaks Discord's ToS is discouraged by us.
 
